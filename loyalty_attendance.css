@@ -1,0 +1,164 @@
+.input_label{
+    width: 220px;
+    height: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    
+}
+.table{
+    width: 950px;
+}
+/*
+.ele_nav{
+    width: 115px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+*/
+.center{
+    width: 950px;
+    margin: auto;
+}
+.all_check{
+    width: 800px;
+    height: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.input{
+    width: 10px;
+    height: 30px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+#label{
+    width: 200px;
+    height: 30px;
+    margin-top: 7px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.main{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.half{
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.elemm{
+    width: 450px;
+    margin: 0px;
+    
+}
+.imm_nav{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+.elem{
+    width: 550px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-right: 50px;
+    
+}
+.immmm{
+    margin-left: 60px;
+}
+
+.ele_nav{
+    width: 115px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.butt{
+    width: 115px;
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    vertical-align: middle;
+    font-size: 15px;
+    
+}
+#butt_home{
+    padding-top: 14px;
+}
+.hhh{
+    color: skyblue;
+}
+span{
+    background-color: skyblue;
+    color: white
+}
+.body{
+    width: 100%;
+    background-color: aliceblue;
+        
+}
+.mainmain{
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.hh{
+    width: 950px;
+}
+.ff{
+    width: 950px;
+    height: 50px;
+    margin: auto;
+    background-color: skyblue;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+.tttt{
+    width: 950px;
+}
+#t{
+    width: 950px;
+}
+.sel{
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
